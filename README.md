@@ -1,4 +1,4 @@
-Este repositório foi criado para praticar e organizar conceitos de bundlers utilizando o Webpack.
+Este projeto foi criado para praticar e organizar conceitos de bundlers utilizando o Webpack.
 O projeto inclui configurações para trabalhar com HTML, CSS e JavaScript moderno, além da integração do Babel para compatibilidade entre navegadores.
 
 🚀 Tecnologias utilizadas
